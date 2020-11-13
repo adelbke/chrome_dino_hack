@@ -47,9 +47,6 @@ function watchSpeed() {
 //     return ['10', '11', ''].concat(highScoreStr.split(''));
 // }
 
-setInterval(function () {
-    console.log(Runner.instance_.distanceMeter.getActualDistance(Runner.instance_.distanceRan))
-},500)
 
 
 
