@@ -22,6 +22,6 @@ I bet everyone knows the famous **dino game** that appears when internet is down
 
 3. copy the contents of main.js into the console
 
-4. and Enjoy the chaos
+4. Enjoy the chaos
 
 
